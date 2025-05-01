@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Antonius00
-- I’m interested in Data Science, Analytics, and AI.
-- I’m currently learning data analytics and creating dashboards on Tableau/DOMO.
-- I’m looking to collaborate on anything that will further my understanding in the Data Science and the world of AI!
-- 📫 How to reach me ....
-- 😄 Pronouns: He/Him
+<h1 align="center">Hi 👋, I'm Anthony Lopez</h1>
+<h3 align="center">A passionate Data analyst!</h3>
 
-<!---
-Antonius00/Antonius00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **DOMO.**
+
+- 📫 How to reach me **twonlopez1105@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
