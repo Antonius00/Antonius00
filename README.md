@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony Lopez</h1>
-<h3 align="center">A passionate Data analyst!</h3>
+<h3 align="center">A passionate Computer Science Undergrad!</h3>
 
 - 🌱 I’m currently learning **DOMO.**
 
